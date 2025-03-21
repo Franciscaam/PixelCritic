@@ -6,7 +6,7 @@ Aplicación web desarrollada con **React** que permite buscar, filtrar y visuali
 
 ## 🌐 Demo
 
-👉 [Ver aplicación desplegada](---) 
+👉 [Ver aplicación desplegada](https://dapper-maamoul-1f8f64.netlify.app/) 
 
 ---
 
